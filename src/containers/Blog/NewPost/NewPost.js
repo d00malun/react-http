@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
-import classes from  './NewPost.module.css';
+import classes from './NewPost.module.css';
 
 class NewPost extends Component {
     state = {
