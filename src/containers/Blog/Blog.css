@@ -18,6 +18,6 @@
 
 .Blog a:hover,
 .Blog a:active,
-.Blog a.magnus {
+.Blog a.active {
     color: #fa923f;
 }
